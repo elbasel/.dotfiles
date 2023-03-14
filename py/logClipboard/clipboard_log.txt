@@ -1,0 +1,117 @@
+
+
+	.config/dconf/
+
+.config/gnome-control-center/
+	.config/gnome-control-center/
+
+
+
+	.config/guake/
+
+
+
+	.config/mps-youtube/
+
+
+
+	.config/nautilus/
+
+
+
+	.config/pop-shell/
+
+
+
+	.config/starship.toml-alpha
+
+
+
+	.config/starship.toml-init
+
+.config/starship.toml-powerline
+	.config/starship.toml-powerline
+
+.config/starship.toml-too-much
+	.config/starship.toml-too-much
+
+
+
+	.config/starship.toml-v1
+
+
+
+	.config/starship.toml-v1
+
+
+
+	.config/starship.toml-v2
+
+
+
+	.desktop/
+
+
+
+	.gnome/
+
+
+
+	.gitconfig
+
+
+
+	.local/
+
+
+
+	.nvm/
+
+
+
+	.oh-my-zsh/
+
+
+
+	.profile
+
+
+
+	.themes/
+
+
+
+	.vscode/
+
+
+
+	.z
+
+
+
+	.zsh_history
+
+
+
+	html/
+
+
+
+	js/
+
+
+
+	npm/
+
+
+
+	py/
+
+
+
+	repos/
+
+
+
+	work/
+
