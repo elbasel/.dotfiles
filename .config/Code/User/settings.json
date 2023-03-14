@@ -1,0 +1,97 @@
+{
+  "editor.inlineSuggest.enabled": true,
+  "zenMode.centerLayout": false,
+  "editor.mouseWheelZoom": true,
+  "redhat.telemetry.enabled": false,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "/usr/bin/flatpak-spawn",
+      "args": ["--host", "--env=TERM=xterm-256color", "bash"]
+    }
+  },
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "none",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "cSpell.userWords": ["Abdelrahman", "Elbasel", "Scandiweb", "tailwindcss"],
+  "prettier.singleQuote": true,
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "markdown.extension.print.imgToBase64": true,
+  "markdown.extension.print.onFileSave": true,
+  "markdown.extension.print.theme": "dark",
+  "markdown.extension.tableFormatter.normalizeIndentation": true,
+  "markdown.extension.theming.decoration.renderHardLineBreak": true,
+  "markdown.extension.theming.decoration.renderLink": true,
+  "markdown.extension.theming.decoration.renderParagraph": true,
+  "markdown.extension.theming.decoration.renderTrailingSpace": true,
+  "markdown.extension.toc.orderedList": true,
+  "markdown.extension.toc.plaintext": true,
+  "settings-repository.repository": "https://github.com/Elbasel/vscode-config.git",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.fontFamily": "FiraCode NF",
+  "editor.fontLigatures": true,
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.copyOnSelection": true,
+  "git.autofetch": true,
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  },
+  "gitdoc.enabled": true,
+  "gitdoc.autoCommitDelay": 1,
+  "gitdoc.autoPullDelay": 1,
+  "gitdoc.autoPushDelay": 1,
+  "git.confirmSync": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.colorTheme": "Ayu Dark",
+  "security.workspace.trust.untrustedFiles": "open",
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "window.titleBarStyle": "custom",
+  "settingsSync.ignoredExtensions": ["fang.vscode-theme-night-own-darkppp"],
+  "[toml]": {
+    "editor.defaultFormatter": "iceyer.toml-formatter"
+  },
+  "editor.fontSize": 18,
+  "editor.fontVariations": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.fontFamily": "FiraCode NF",
+  "terminal.integrated.fontSize": 18,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "tailwindCSS.emmetCompletions": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.menuBarVisibility": "compact",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.openRepositoryInParentFolders": "always",
+  "files.insertFinalNewline": true,
+  "php.format.rules.callParametersNewLineBeforeRightParen": true,
+  "workbench.editor.enablePreview": false,
+  "scm.diffDecorations": "none",
+  "tailwindCSS.lint.cssConflict": "ignore",
+  "tailwindCSS.lint.invalidApply": "ignore",
+  "tailwindCSS.lint.invalidVariant": "warning",
+  "tailwindCSS.lint.invalidTailwindDirective": "warning",
+  "tailwindCSS.lint.invalidScreen": "warning",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
